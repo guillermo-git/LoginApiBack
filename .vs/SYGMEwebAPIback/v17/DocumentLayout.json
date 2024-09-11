@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guill\\source\\repos\\SYSMEwebAPIback\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A113AEFD-4F63-462A-ADD8-EDF739EA38B2}|SYSMEwebAPIback\\SYGMEwebAPIback.csproj|c:\\users\\guill\\source\\repos\\sysmewebapiback\\sysmewebapiback\\sygmewebapiback.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A113AEFD-4F63-462A-ADD8-EDF739EA38B2}|SYSMEwebAPIback\\SYGMEwebAPIback.csproj|solutionrelative:sysmewebapiback\\sygmewebapiback.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A113AEFD-4F63-462A-ADD8-EDF739EA38B2}|SYSMEwebAPIback\\SYSMEwebAPIback.csproj|c:\\users\\guill\\source\\repos\\sysmewebapiback\\sysmewebapiback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A113AEFD-4F63-462A-ADD8-EDF739EA38B2}|SYSMEwebAPIback\\SYSMEwebAPIback.csproj|solutionrelative:sysmewebapiback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A113AEFD-4F63-462A-ADD8-EDF739EA38B2}|SYSMEwebAPIback\\SYSMEwebAPIback.csproj|c:\\users\\guill\\source\\repos\\sysmewebapiback\\sysmewebapiback\\custom\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A113AEFD-4F63-462A-ADD8-EDF739EA38B2}|SYSMEwebAPIback\\SYSMEwebAPIback.csproj|solutionrelative:sysmewebapiback\\custom\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A113AEFD-4F63-462A-ADD8-EDF739EA38B2}|SYSMEwebAPIback\\SYSMEwebAPIback.csproj|c:\\users\\guill\\source\\repos\\sysmewebapiback\\sysmewebapiback\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A113AEFD-4F63-462A-ADD8-EDF739EA38B2}|SYSMEwebAPIback\\SYSMEwebAPIback.csproj|solutionrelative:sysmewebapiback\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A113AEFD-4F63-462A-ADD8-EDF739EA38B2}|SYSMEwebAPIback\\SYSMEwebAPIback.csproj|c:\\users\\guill\\source\\repos\\sysmewebapiback\\sysmewebapiback\\models\\scmerbdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A113AEFD-4F63-462A-ADD8-EDF739EA38B2}|SYSMEwebAPIback\\SYSMEwebAPIback.csproj|solutionrelative:sysmewebapiback\\models\\scmerbdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 287,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Utilidades.cs",
+              "DocumentMoniker": "C:\\Users\\guill\\source\\repos\\SYSMEwebAPIback\\SYSMEwebAPIback\\Custom\\Utilidades.cs",
+              "RelativeDocumentMoniker": "SYSMEwebAPIback\\Custom\\Utilidades.cs",
+              "ToolTip": "C:\\Users\\guill\\source\\repos\\SYSMEwebAPIback\\SYSMEwebAPIback\\Custom\\Utilidades.cs",
+              "RelativeToolTip": "SYSMEwebAPIback\\Custom\\Utilidades.cs",
+              "ViewState": "AQIAACgAAACA//////8XwD0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:26:20.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SYSMEwebAPIback.csproj",
+              "DocumentMoniker": "C:\\Users\\guill\\source\\repos\\SYSMEwebAPIback\\SYSMEwebAPIback\\SYGMEwebAPIback.csproj",
+              "RelativeDocumentMoniker": "SYSMEwebAPIback\\SYGMEwebAPIback.csproj",
+              "ToolTip": "C:\\Users\\guill\\source\\repos\\SYSMEwebAPIback\\SYSMEwebAPIback\\SYGMEwebAPIback.csproj",
+              "RelativeToolTip": "SYSMEwebAPIback\\SYGMEwebAPIback.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-11T15:25:48.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\guill\\source\\repos\\SYSMEwebAPIback\\SYSMEwebAPIback\\Program.cs",
+              "RelativeDocumentMoniker": "SYSMEwebAPIback\\Program.cs",
+              "ToolTip": "C:\\Users\\guill\\source\\repos\\SYSMEwebAPIback\\SYSMEwebAPIback\\Program.cs",
+              "RelativeToolTip": "SYSMEwebAPIback\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:20:04.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\guill\\source\\repos\\SYSMEwebAPIback\\SYSMEwebAPIback\\appsettings.json",
+              "RelativeDocumentMoniker": "SYSMEwebAPIback\\appsettings.json",
+              "ToolTip": "C:\\Users\\guill\\source\\repos\\SYSMEwebAPIback\\SYSMEwebAPIback\\appsettings.json",
+              "RelativeToolTip": "SYSMEwebAPIback\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-11T14:29:47.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScmerbdbContext.cs",
+              "DocumentMoniker": "C:\\Users\\guill\\source\\repos\\SYSMEwebAPIback\\SYSMEwebAPIback\\Models\\ScmerbdbContext.cs",
+              "RelativeDocumentMoniker": "SYSMEwebAPIback\\Models\\ScmerbdbContext.cs",
+              "ToolTip": "C:\\Users\\guill\\source\\repos\\SYSMEwebAPIback\\SYSMEwebAPIback\\Models\\ScmerbdbContext.cs",
+              "RelativeToolTip": "SYSMEwebAPIback\\Models\\ScmerbdbContext.cs",
+              "ViewState": "AQIAABoAAABAAQAAAAAswCMAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T21:36:54.339Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

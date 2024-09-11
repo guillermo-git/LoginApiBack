@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SYSMEwebAPIback")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17e865b21b1825911a02e591678ccce49fdc550b")]
 [assembly: System.Reflection.AssemblyProductAttribute("SYSMEwebAPIback")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SYSMEwebAPIback")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
