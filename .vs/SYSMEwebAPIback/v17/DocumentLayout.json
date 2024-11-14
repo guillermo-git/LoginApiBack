@@ -1,14 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\guill\\source\\repos\\SYSMEwebAPIback\\",
+  "WorkspaceRootPath": "C:\\Users\\guill\\source\\repos\\LoginAPIback\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A113AEFD-4F63-462A-ADD8-EDF739EA38B2}|SYSMEwebAPIback\\SYGMEwebAPIback.csproj|c:\\users\\guill\\source\\repos\\sysmewebapiback\\sysmewebapiback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A113AEFD-4F63-462A-ADD8-EDF739EA38B2}|SYSMEwebAPIback\\SYGMEwebAPIback.csproj|solutionrelative:sysmewebapiback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A113AEFD-4F63-462A-ADD8-EDF739EA38B2}|SYSMEwebAPIback\\SYSMEwebAPIback.csproj|c:\\users\\guill\\source\\repos\\loginapiback\\sysmewebapiback\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A113AEFD-4F63-462A-ADD8-EDF739EA38B2}|SYSMEwebAPIback\\SYSMEwebAPIback.csproj|solutionrelative:sysmewebapiback\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A113AEFD-4F63-462A-ADD8-EDF739EA38B2}|SYSMEwebAPIback\\SYGMEwebAPIback.csproj|c:\\users\\guill\\source\\repos\\sysmewebapiback\\sysmewebapiback\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A113AEFD-4F63-462A-ADD8-EDF739EA38B2}|SYSMEwebAPIback\\SYGMEwebAPIback.csproj|solutionrelative:sysmewebapiback\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A113AEFD-4F63-462A-ADD8-EDF739EA38B2}|SYSMEwebAPIback\\SYSMEwebAPIback.csproj|c:\\users\\guill\\source\\repos\\loginapiback\\sysmewebapiback\\custom\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A113AEFD-4F63-462A-ADD8-EDF739EA38B2}|SYSMEwebAPIback\\SYSMEwebAPIback.csproj|solutionrelative:sysmewebapiback\\custom\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A113AEFD-4F63-462A-ADD8-EDF739EA38B2}|SYSMEwebAPIback\\SYSMEwebAPIback.csproj|c:\\users\\guill\\source\\repos\\loginapiback\\sysmewebapiback\\models\\scmerbdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A113AEFD-4F63-462A-ADD8-EDF739EA38B2}|SYSMEwebAPIback\\SYSMEwebAPIback.csproj|solutionrelative:sysmewebapiback\\models\\scmerbdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A113AEFD-4F63-462A-ADD8-EDF739EA38B2}|SYSMEwebAPIback\\SYSMEwebAPIback.csproj|c:\\users\\guill\\source\\repos\\loginapiback\\sysmewebapiback\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A113AEFD-4F63-462A-ADD8-EDF739EA38B2}|SYSMEwebAPIback\\SYSMEwebAPIback.csproj|solutionrelative:sysmewebapiback\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A113AEFD-4F63-462A-ADD8-EDF739EA38B2}|SYSMEwebAPIback\\SYSMEwebAPIback.csproj|c:\\users\\guill\\source\\repos\\loginapiback\\sysmewebapiback\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A113AEFD-4F63-462A-ADD8-EDF739EA38B2}|SYSMEwebAPIback\\SYSMEwebAPIback.csproj|solutionrelative:sysmewebapiback\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A113AEFD-4F63-462A-ADD8-EDF739EA38B2}|SYSMEwebAPIback\\SYSMEwebAPIback.csproj|c:\\users\\guill\\source\\repos\\loginapiback\\sysmewebapiback\\models\\accionistum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A113AEFD-4F63-462A-ADD8-EDF739EA38B2}|SYSMEwebAPIback\\SYSMEwebAPIback.csproj|solutionrelative:sysmewebapiback\\models\\accionistum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A113AEFD-4F63-462A-ADD8-EDF739EA38B2}|SYSMEwebAPIback\\SYSMEwebAPIback.csproj|c:\\users\\guill\\source\\repos\\loginapiback\\sysmewebapiback\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A113AEFD-4F63-462A-ADD8-EDF739EA38B2}|SYSMEwebAPIback\\SYSMEwebAPIback.csproj|solutionrelative:sysmewebapiback\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A113AEFD-4F63-462A-ADD8-EDF739EA38B2}|SYSMEwebAPIback\\SYSMEwebAPIback.csproj|c:\\users\\guill\\source\\repos\\loginapiback\\sysmewebapiback\\models\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A113AEFD-4F63-462A-ADD8-EDF739EA38B2}|SYSMEwebAPIback\\SYSMEwebAPIback.csproj|solutionrelative:sysmewebapiback\\models\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A113AEFD-4F63-462A-ADD8-EDF739EA38B2}|SYSMEwebAPIback\\SYSMEwebAPIback.csproj|c:\\users\\guill\\source\\repos\\loginapiback\\sysmewebapiback\\models\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A113AEFD-4F63-462A-ADD8-EDF739EA38B2}|SYSMEwebAPIback\\SYSMEwebAPIback.csproj|solutionrelative:sysmewebapiback\\models\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A113AEFD-4F63-462A-ADD8-EDF739EA38B2}|SYSMEwebAPIback\\SYSMEwebAPIback.csproj|c:\\users\\guill\\source\\repos\\loginapiback\\sysmewebapiback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A113AEFD-4F63-462A-ADD8-EDF739EA38B2}|SYSMEwebAPIback\\SYSMEwebAPIback.csproj|solutionrelative:sysmewebapiback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A113AEFD-4F63-462A-ADD8-EDF739EA38B2}|SYSMEwebAPIback\\SYSMEwebAPIback.csproj|c:\\users\\guill\\source\\repos\\loginapiback\\sysmewebapiback\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A113AEFD-4F63-462A-ADD8-EDF739EA38B2}|SYSMEwebAPIback\\SYSMEwebAPIback.csproj|solutionrelative:sysmewebapiback\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +57,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,29 +65,148 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\guill\\source\\repos\\SYSMEwebAPIback\\SYSMEwebAPIback\\Program.cs",
-              "RelativeDocumentMoniker": "SYSMEwebAPIback\\Program.cs",
-              "ToolTip": "C:\\Users\\guill\\source\\repos\\SYSMEwebAPIback\\SYSMEwebAPIback\\Program.cs",
-              "RelativeToolTip": "SYSMEwebAPIback\\Program.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAIwDkAAAAYAAAA",
+              "DocumentIndex": 2,
+              "Title": "Utilidades.cs",
+              "DocumentMoniker": "C:\\Users\\guill\\source\\repos\\LoginAPIback\\SYSMEwebAPIback\\Custom\\Utilidades.cs",
+              "RelativeDocumentMoniker": "SYSMEwebAPIback\\Custom\\Utilidades.cs",
+              "ToolTip": "C:\\Users\\guill\\source\\repos\\LoginAPIback\\SYSMEwebAPIback\\Custom\\Utilidades.cs",
+              "RelativeToolTip": "SYSMEwebAPIback\\Custom\\Utilidades.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAtwC0AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T17:40:32.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T16:35:36.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScmerbdbContext.cs",
+              "DocumentMoniker": "C:\\Users\\guill\\source\\repos\\LoginAPIback\\SYSMEwebAPIback\\Models\\ScmerbdbContext.cs",
+              "RelativeDocumentMoniker": "SYSMEwebAPIback\\Models\\ScmerbdbContext.cs",
+              "ToolTip": "C:\\Users\\guill\\source\\repos\\LoginAPIback\\SYSMEwebAPIback\\Models\\ScmerbdbContext.cs",
+              "RelativeToolTip": "SYSMEwebAPIback\\Models\\ScmerbdbContext.cs",
+              "ViewState": "AQIAAPMAAAAAmJmZmZknwPcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T15:57:23.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\guill\\source\\repos\\LoginAPIback\\SYSMEwebAPIback\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "SYSMEwebAPIback\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\guill\\source\\repos\\LoginAPIback\\SYSMEwebAPIback\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "SYSMEwebAPIback\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T15:57:14.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "usuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\guill\\source\\repos\\LoginAPIback\\SYSMEwebAPIback\\Controllers\\usuariosController.cs",
+              "RelativeDocumentMoniker": "SYSMEwebAPIback\\Controllers\\usuariosController.cs",
+              "ToolTip": "C:\\Users\\guill\\source\\repos\\LoginAPIback\\SYSMEwebAPIback\\Controllers\\usuariosController.cs",
+              "RelativeToolTip": "SYSMEwebAPIback\\Controllers\\usuariosController.cs",
+              "ViewState": "AQIAAAMAAAAANDMzMzMrwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T15:49:34.571Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAIoUAAAAAAAAAAAAAJUUAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-09-11T21:14:22.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccesoController.cs",
+              "DocumentMoniker": "C:\\Users\\guill\\source\\repos\\LoginAPIback\\SYSMEwebAPIback\\Controllers\\AccesoController.cs",
+              "RelativeDocumentMoniker": "SYSMEwebAPIback\\Controllers\\AccesoController.cs",
+              "ToolTip": "C:\\Users\\guill\\source\\repos\\LoginAPIback\\SYSMEwebAPIback\\Controllers\\AccesoController.cs",
+              "RelativeToolTip": "SYSMEwebAPIback\\Controllers\\AccesoController.cs",
+              "ViewState": "AQIAAB0AAAAgAAAAAAArwCEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T20:36:40.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Accionistum.cs",
+              "DocumentMoniker": "C:\\Users\\guill\\source\\repos\\LoginAPIback\\SYSMEwebAPIback\\Models\\Accionistum.cs",
+              "RelativeDocumentMoniker": "SYSMEwebAPIback\\Models\\Accionistum.cs",
+              "ToolTip": "C:\\Users\\guill\\source\\repos\\LoginAPIback\\SYSMEwebAPIback\\Models\\Accionistum.cs",
+              "RelativeToolTip": "SYSMEwebAPIback\\Models\\Accionistum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T20:32:13.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\guill\\source\\repos\\LoginAPIback\\SYSMEwebAPIback\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "SYSMEwebAPIback\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\guill\\source\\repos\\LoginAPIback\\SYSMEwebAPIback\\Models\\Usuario.cs",
+              "RelativeToolTip": "SYSMEwebAPIback\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T18:29:50.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\guill\\source\\repos\\LoginAPIback\\SYSMEwebAPIback\\Models\\Dtos\\UsuarioDTO.cs",
+              "RelativeDocumentMoniker": "SYSMEwebAPIback\\Models\\Dtos\\UsuarioDTO.cs",
+              "ToolTip": "C:\\Users\\guill\\source\\repos\\LoginAPIback\\SYSMEwebAPIback\\Models\\Dtos\\UsuarioDTO.cs",
+              "RelativeToolTip": "SYSMEwebAPIback\\Models\\Dtos\\UsuarioDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T18:29:26.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\guill\\source\\repos\\LoginAPIback\\SYSMEwebAPIback\\Models\\Dtos\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "SYSMEwebAPIback\\Models\\Dtos\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\guill\\source\\repos\\LoginAPIback\\SYSMEwebAPIback\\Models\\Dtos\\LoginDTO.cs",
+              "RelativeToolTip": "SYSMEwebAPIback\\Models\\Dtos\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T18:15:42.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\guill\\source\\repos\\LoginAPIback\\SYSMEwebAPIback\\Program.cs",
+              "RelativeDocumentMoniker": "SYSMEwebAPIback\\Program.cs",
+              "ToolTip": "C:\\Users\\guill\\source\\repos\\LoginAPIback\\SYSMEwebAPIback\\Program.cs",
+              "RelativeToolTip": "SYSMEwebAPIback\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T17:40:32.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\guill\\source\\repos\\SYSMEwebAPIback\\SYSMEwebAPIback\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\guill\\source\\repos\\LoginAPIback\\SYSMEwebAPIback\\appsettings.json",
               "RelativeDocumentMoniker": "SYSMEwebAPIback\\appsettings.json",
-              "ToolTip": "C:\\Users\\guill\\source\\repos\\SYSMEwebAPIback\\SYSMEwebAPIback\\appsettings.json",
+              "ToolTip": "C:\\Users\\guill\\source\\repos\\LoginAPIback\\SYSMEwebAPIback\\appsettings.json",
               "RelativeToolTip": "SYSMEwebAPIback\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-11T17:41:35.082Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T17:41:35.082Z"
             }
           ]
         }
